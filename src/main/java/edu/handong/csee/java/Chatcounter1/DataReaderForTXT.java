@@ -1,4 +1,4 @@
-package edu.handong.csee.java.Chatcounter;
+package edu.handong.csee.java.Chatcounter1;
 
 import java.io.BufferedReader;
 import java.io.File;

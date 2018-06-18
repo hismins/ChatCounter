@@ -1,4 +1,4 @@
-package edu.handong.csee.java.Chatcounter;
+package edu.handong.csee.java.Chatcounter1;
 
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.CommandLineParser;
